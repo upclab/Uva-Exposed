@@ -111,7 +111,6 @@ X.XXX..X...X
 X...X..XX.XX
 X.X....X..TX
 XXXXXXXXXXXX
-
 OUTPUT
 "Se debe mostrar el laberinto pero con todos los caminos recorridos"
 */

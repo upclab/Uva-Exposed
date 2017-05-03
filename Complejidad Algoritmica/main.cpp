@@ -1,10 +1,12 @@
 #include <conio.h>
 
+/*
+Cambiar este header por el ejercicio que se desea ejecutar
 
-
-
-//Cambiar este header por el ejercicio que se desea ejecutar
-#include "BFS\Laberinto.h"
+    	 ||	 ||  ||	 ||	 ||
+    	 ||	 ||  ||	 ||	 ||
+    	 \/	 \/  \/	 \/	 \/                                 */
+#include "Ejercicios\9_924_SpreadingTheNews.h" /* <========= ESTE HEADER    */
 
 int main() {
 

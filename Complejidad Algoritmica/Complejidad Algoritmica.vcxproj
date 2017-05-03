@@ -71,6 +71,11 @@
   <ItemGroup>
     <ClCompile Include="main.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="BFS\Grafo_Basico.h" />
+    <ClInclude Include="BFS\Laberinto.h" />
+    <ClInclude Include="Ejercicios\9_924_SpreadingTheNews.h" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
