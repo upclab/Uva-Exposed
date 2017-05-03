@@ -6,7 +6,7 @@ Cambiar este header por el ejercicio que se desea ejecutar
     	 ||	 ||  ||	 ||	 ||
     	 ||	 ||  ||	 ||	 ||
     	 \/	 \/  \/	 \/	 \/                                 */
-#include "Ejercicios\100_10004_Bicoloring.h" /* <========= ESTE HEADER    */
+#include "Ejercicios\6_624_CD.h" /* <========= ESTE HEADER    */
 
 int main() {
 

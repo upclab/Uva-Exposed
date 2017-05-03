@@ -32,5 +32,8 @@
     <ClInclude Include="Ejercicios\100_10004_Bicoloring.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="Ejercicios\6_624_CD.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

@@ -75,6 +75,7 @@
     <ClInclude Include="BFS\Grafo_Basico.h" />
     <ClInclude Include="BFS\Laberinto.h" />
     <ClInclude Include="Ejercicios\100_10004_Bicoloring.h" />
+    <ClInclude Include="Ejercicios\6_624_CD.h" />
     <ClInclude Include="Ejercicios\9_924_SpreadingTheNews.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
