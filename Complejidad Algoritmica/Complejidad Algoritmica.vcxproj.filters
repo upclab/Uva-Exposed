@@ -47,9 +47,6 @@
     <ClInclude Include="Ejercicios\494 - Kindergarten Counting Game.h">
       <Filter>Source Files</Filter>
     </ClInclude>
-    <ClInclude Include="Ejercicios\6530 - Football.h">
-      <Filter>Source Files</Filter>
-    </ClInclude>
     <ClInclude Include="Ejercicios\10055 - Hashmat the Brave Warrior.h">
       <Filter>Source Files</Filter>
     </ClInclude>

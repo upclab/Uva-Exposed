@@ -99,9 +99,6 @@
     <ClInclude Include="Ejercicios\494 - Kindergarten Counting Game.h">
       <FileType>CppCode</FileType>
     </ClInclude>
-    <ClInclude Include="Ejercicios\6530 - Football.h">
-      <FileType>CppCode</FileType>
-    </ClInclude>
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
