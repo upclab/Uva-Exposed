@@ -35,5 +35,11 @@
     <ClInclude Include="Ejercicios\6_624_CD.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="Ejercicios\118_11838_Come_And_Go.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="BFS\115_11504_Dominios.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

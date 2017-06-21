@@ -23,10 +23,12 @@ bool Backtrack(int capacidad, int cancion) {
 	// Si llegamos a la ultima canción, no ha solucion para esta posibilidad
 	if (siguiente_cancion == numero_canciones) return false;
 
+	// Se debe buscar llegar a la capacidad con las siguientes canciones
 	if (duracion < capacidad) {
 		if (Backtrack(capacidad - duracion, siguiente_cancion)) { duraciones_optimizadas.push(duracion); return true; }
 	}
 
+	// Se cambia la cancion con la misma capacidad
 	if (Backtrack(capacidad, siguiente_cancion)) return true;
 }
 
