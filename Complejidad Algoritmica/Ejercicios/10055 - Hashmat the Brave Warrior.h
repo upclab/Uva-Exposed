@@ -4,7 +4,7 @@ using namespace std;
 
 long long a,b;
 
-int main(){
+int ejecutar(){
 
     while(cin>>a>>b){
     cout<<abs(a-b)<<endl;

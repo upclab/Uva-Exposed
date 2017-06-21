@@ -1,6 +1,7 @@
 #include <bits/stdc++.h>
 using namespace std;
-int main(){
+
+int ejecutar(){
     int n;
     while(cin>>n){
         if(n==0) break;

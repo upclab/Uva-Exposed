@@ -20,7 +20,7 @@ bool orden(int a, int b){
     }
 }
 
-int main(){
+int ejecutar(){
 
     while(cin>>N>>mod){
         cout<<N<<" "<<mod<<endl;

@@ -3,7 +3,7 @@ using namespace std;
 
 int v,t;
 
-int main(){
+int ejecutar(){
     while(cin>>v>>t){
 
     if (v==0)

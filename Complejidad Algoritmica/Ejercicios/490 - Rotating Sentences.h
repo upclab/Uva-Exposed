@@ -9,7 +9,7 @@ int m = 0;
 string l;
 vector<string> arr;
 
-int main() {
+int ejecutar() {
 
     while(getline(cin, l)) {
     if(l == "x") break;

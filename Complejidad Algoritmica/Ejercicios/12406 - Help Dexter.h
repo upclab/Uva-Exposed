@@ -17,7 +17,7 @@ void alg(long long int x,int v){
 }
 
 
-int main(){
+int ejecutar(){
 
     for(int i=0;i<19;i++){
         valores.push_back(pot2);

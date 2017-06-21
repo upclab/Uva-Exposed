@@ -3,7 +3,7 @@ using namespace std;
 
 int nc,ng,e,an,amistad,suma;
 
-int main(){
+int ejecutar(){
 
     cin>>nc;
 

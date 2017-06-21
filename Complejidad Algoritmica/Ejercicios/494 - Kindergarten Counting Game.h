@@ -5,7 +5,7 @@ using namespace std;
 string linea;
 int cont = 0;
 
-int main(){
+int ejecutar(){
 
     while(getline(cin,linea)){
 

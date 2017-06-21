@@ -2,7 +2,7 @@
 
 using namespace std;
 
-int main(){
+int ejecutar(){
 
     long long m,n,cd,cnt;
     map<long, long>mp;

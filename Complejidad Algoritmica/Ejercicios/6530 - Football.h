@@ -16,7 +16,7 @@ bool operator<(struct partido i, struct partido j)
 	return false;
 }
 
-int main()
+int ejecutar()
 {
 	int N, G, total = 0;
 
