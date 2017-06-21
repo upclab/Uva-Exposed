@@ -32,3 +32,36 @@ int ejecutar() {
 
     return 0;
 }
+/*
+LINK: https://uva.onlinejudge.org/external/4/490.pdf
+INPUT
+Rene Decartes once said,
+"I think, therefore I am."OUTPUT
+"R
+Ie
+n
+te
+h
+iD
+ne
+kc
+,a
+r
+tt
+he
+es
+r
+eo
+fn
+oc
+re
+e
+s
+Ia
+i
+ad
+m,
+.
+"
+*/
+

@@ -14,3 +14,11 @@ int ejecutar(){
     }
     return 0;
 }
+/*
+LINK: https://uva.onlinejudge.org/external/100/10071.pdf
+INPUT
+0 0
+5 12OUTPUT
+0
+120
+*/

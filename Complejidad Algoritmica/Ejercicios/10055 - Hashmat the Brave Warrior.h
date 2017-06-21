@@ -12,3 +12,13 @@ int ejecutar(){
 
     return 0;
 }
+/*
+LINK: https://uva.onlinejudge.org/external/100/10055.pdf
+INPUT
+10 12
+10 14
+100 200OUTPUT
+2
+4
+100
+*/

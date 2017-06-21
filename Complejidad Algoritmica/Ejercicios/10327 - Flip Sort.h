@@ -31,3 +31,13 @@ int main(){
 
 	return 0;
 }
+/*
+LINK: https://uva.onlinejudge.org/external/103/10327.pdf
+INPUT
+3
+1 2 3
+3
+2 3 1OUTPUT
+Minimum exchange operations : 0
+Minimum exchange operations : 2
+*/

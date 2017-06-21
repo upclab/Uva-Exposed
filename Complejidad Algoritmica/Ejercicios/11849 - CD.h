@@ -32,3 +32,16 @@ int ejecutar(){
 
 return 0;
 }
+/*
+LINK: https://uva.onlinejudge.org/external/118/11849.pdf
+INPUT
+3 3
+1
+2
+3
+1
+2
+4
+0 0OUTPUT
+2
+*/

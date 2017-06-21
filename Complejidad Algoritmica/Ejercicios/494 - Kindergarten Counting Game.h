@@ -31,6 +31,17 @@ int ejecutar(){
 
         return 0;
 }
-
+/*
+LINK: https://uva.onlinejudge.org/external/4/494.pdf
+INPUT
+Meep Meep!
+I tot I taw a putty tat.
+I did! I did! I did taw a putty tat.
+Shsssssssssh ... I am hunting wabbits. Heh Heh Heh Heh ...OUTPUT
+2
+7
+10
+9
+*/
 
 

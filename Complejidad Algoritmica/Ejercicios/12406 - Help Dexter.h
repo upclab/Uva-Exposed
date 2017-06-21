@@ -40,3 +40,14 @@ int ejecutar(){
 
 	return 0;
 }
+/*
+LINK: https://uva.onlinejudge.org/external/124/12406.pdf
+INPUT
+3
+2 2
+2 1
+2 3OUTPUT
+Case 1: 12
+Case 2: 12 22
+Case 3: impossible
+*/

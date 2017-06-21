@@ -40,3 +40,41 @@ int ejecutar(){
     }
     return 0;
 }
+/*
+LINK: https://uva.onlinejudge.org/external/104/10469.pdf
+INPUT
+15 3
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+0 0OUTPUT
+15 3
+15
+9
+3
+6
+12
+13
+7
+1
+4
+10
+11
+5
+2
+8
+14
+0 0
+*/
