@@ -69,9 +69,22 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Ejercicios\10055 - Hashmat the Brave Warrior.h" />
+    <ClCompile Include="Ejercicios\10071 - Back to High School Physics.h" />
+    <ClCompile Include="Ejercicios\10300 - Ecological Premium.h" />
+    <ClCompile Include="Ejercicios\10469 - To Carry or not to Carry.h" />
+    <ClCompile Include="Ejercicios\11321 - Sort! Sort!! and Sort!!!.h" />
+    <ClCompile Include="Ejercicios\11849 - CD.h" />
+    <ClCompile Include="Ejercicios\12149 - Feynman.h" />
+    <ClCompile Include="Ejercicios\12406 - Help Dexter.h" />
+    <ClCompile Include="Ejercicios\490 - Rotating Sentences.h" />
+    <ClCompile Include="Ejercicios\494 - Kindergarten Counting Game.h" />
+    <ClCompile Include="Ejercicios\6530 - Football.h" />
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Ejercicios\10327 - Flip Sort.h" />
+    <ClInclude Include="Ejercicios\110 - Meta-Loopless Sorts.h" />
     <ClInclude Include="BFS\Grafo_Basico.h" />
     <ClInclude Include="BFS\Laberinto.h" />
     <ClInclude Include="Ejercicios\100_10004_Bicoloring.h" />
