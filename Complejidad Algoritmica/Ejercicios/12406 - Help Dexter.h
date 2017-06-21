@@ -1,5 +1,8 @@
-#include<bits/stdc++.h>
+#include<iostream>
+#include<vector>
+
 using namespace std;
+
 vector<long long int> vec;
 vector<int>valores;
 int p,q;
@@ -34,4 +37,6 @@ int ejecutar(){
         else if(vec.size()==1) cout<<"Case "<<i<<": "<<vec[0]<<endl;
         else cout<<"Case "<<i<<": "<<vec[0]<<" "<<vec[vec.size() -1 ]<<endl;
     }
+
+	return 0;
 }

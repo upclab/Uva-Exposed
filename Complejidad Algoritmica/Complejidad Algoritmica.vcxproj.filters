@@ -18,39 +18,6 @@
     <ClCompile Include="main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Ejercicios\490 - Rotating Sentences.h">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="Ejercicios\494 - Kindergarten Counting Game.h">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="Ejercicios\6530 - Football.h">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="Ejercicios\10055 - Hashmat the Brave Warrior.h">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="Ejercicios\10071 - Back to High School Physics.h">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="Ejercicios\10300 - Ecological Premium.h">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="Ejercicios\10469 - To Carry or not to Carry.h">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="Ejercicios\11321 - Sort! Sort!! and Sort!!!.h">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="Ejercicios\11849 - CD.h">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="Ejercicios\12149 - Feynman.h">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="Ejercicios\12406 - Help Dexter.h">
-      <Filter>Source Files</Filter>
-    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="BFS\Grafo_Basico.h">
@@ -73,6 +40,39 @@
     </ClInclude>
     <ClInclude Include="Ejercicios\10327 - Flip Sort.h">
       <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Ejercicios\490 - Rotating Sentences.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Ejercicios\494 - Kindergarten Counting Game.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Ejercicios\6530 - Football.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Ejercicios\10055 - Hashmat the Brave Warrior.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Ejercicios\10071 - Back to High School Physics.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Ejercicios\10300 - Ecological Premium.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Ejercicios\10469 - To Carry or not to Carry.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Ejercicios\11321 - Sort! Sort!! and Sort!!!.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Ejercicios\11849 - CD.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Ejercicios\12149 - Feynman.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Ejercicios\12406 - Help Dexter.h">
+      <Filter>Source Files</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
